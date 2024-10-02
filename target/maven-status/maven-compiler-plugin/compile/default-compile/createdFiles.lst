@@ -1,0 +1,12 @@
+com\solar\code\CodeApplication$Myconfiguration$1.class
+com\solar\code\CodeApplication.class
+com\solar\code\repository\CategoriaRepository.class
+com\solar\code\CodeApplication$Myconfiguration.class
+com\solar\code\model\Categoria.class
+com\solar\code\model\Producto.class
+com\solar\code\dto\ProductoDTO.class
+com\solar\code\service\ProductoService.class
+com\solar\code\service\CategoriaService.class
+com\solar\code\repository\ProductoRepository.class
+com\solar\code\controller\ProductoController.class
+com\solar\code\controller\CategoriaController.class
